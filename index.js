@@ -35,6 +35,13 @@ var questionList = [
 		answer :'U.P',
 		options:['U.P','Rajashthan','Bihar','Madhya Pradesh']
 	},
+    {
+		id:6,
+		category:'fun',
+		questionText:'Who won the t20 world cup 2024',
+		answer :'India',
+		options:['India','Australia','South Africa']
+	},
 ];
 
 var currentIndex = 0;
